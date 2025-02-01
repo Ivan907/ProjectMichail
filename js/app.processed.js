@@ -8955,8 +8955,8 @@
 	      return React.createElement(
 	        "div",
 	        { className: "main_container" },
-	        React.createElement(_Header2.default, { title: "Храмы Челябинской области" }),
-	        React.createElement(_ShowCase2.default, { title: "Храм Рождества Христова", image: "https://ivan907.github.io/ProjectMichail/image/ED0AB8F2_9CA4_48B5_AA2C_4963870DD208.jpeg", description: "Собор был назван в честь разрушенного советской властью около ста лет назад собора Рождества Христова. Высота здания вместе с крестом — почти 74 метра. В архитектурном решении собора доминируют мотивы классицизма. Кафедральный собор призван стать украшением города и «визитной карточкой» Челябинской митрополии. Возведение собора — предмет неустанной заботы правящего архиерея." }),
+	        React.createElement(_Header2.default, { title: "Храмы Пластовского района" }),
+	        React.createElement(_ShowCase2.default, { title: "Храм Николая Чудотворца", image: "https://ivan907.github.io/ProjectMichail/image/5649110_2000.jpg", description: "Свято-Никольский храм был построен в 1948 году на месте разрушенного храма. Освящена в честь святого Николая Мирликийского." }),
 		React.createElement(_ShowCase2.default, { title: "Храм Святой Троицы", image: "https://ivan907.github.io/ProjectMichail/image/original.jpg", description: "Храм Святой Троицы — православный храм Челябинской епархии Русской Православной Церкви. Находится в городе Челябинске. Самый крупный храм города." }),
 		React.createElement(_ShowCase2.default, { title: "Храм Святой Варвары", image: "https://ivan907.github.io/ProjectMichail/image/0d614fdcbc572f1034eb7d4fc11148e7.jpg", description: "Храм Святой Варвары в городе Пласт был построен и освящён в честь святой великомученицы Варвары Илиопольской — покровительницы горняков и шахтёров." })
 	      );

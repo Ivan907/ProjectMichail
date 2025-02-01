@@ -8956,7 +8956,7 @@
 	        "div",
 	        { className: "main_container" },
 	        React.createElement(_Header2.default, { title: "Храмы Челябинской области" }),
-	        React.createElement(_ShowCase2.default, { title: "New York", image: "https://sobory.ru/pic/37650/37655_20240211_1243044.jpg", description: "Epicenter of the arts. Dining and shopping capital. Trendsetter. New York City wears many crowns, and spreads an irresistible feast for all." }),
+	        React.createElement(_ShowCase2.default, { title: "Храм Рождества Христова", image: "https://ivan907.github.io/ProjectMichail/image/37655_20240211_1243044.jpg", description: "Собор был назван в честь разрушенного советской властью около ста лет назад собора Рождества Христова. Высота здания вместе с крестом — почти 74 метра. В архитектурном решении собора доминируют мотивы классицизма. Кафедральный собор призван стать украшением города и «визитной карточкой» Челябинской митрополии. Возведение собора — предмет неустанной заботы правящего архиерея." }),
 		React.createElement(_ShowCase2.default, { title: "New York", image: "https://sobory.ru/pic/37650/37655_20230826_1704031.jpg", description: "Epicenter of the arts. Dining and shopping capital. Trendsetter. New York City wears many crowns, and spreads an irresistible feast for all." })
 	      );
 	    }
